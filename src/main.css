@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+/*This Project its developed by Agustin Di Giambatista in March of 2023*/
+/*Presents main of project*/
+
+:root{
+  --primarycolor: black;
+  --secondarycolor:#60E1CB;
+  --thirdcolor:#7BC0E3;
+  --background: #FFFFFF;
+  font-family: 'Golos Text', sans-serif;
+}
